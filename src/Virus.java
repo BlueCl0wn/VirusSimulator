@@ -91,8 +91,6 @@ public class Virus {
 
         Simulation.calculate();
         Simulation.print();
-
-        System.out.println("hello world");
     }
 
     //hi
